@@ -13,4 +13,4 @@
 ##### Instagram ID : *hyedo_1107*  
 ##### [Notion](https://sparkling-estimate-880.notion.site/139c8c5208fc406d8bd8e435be1e071f)
 ---
-![JooHyoSeok](https://user-images.githubusercontent.com/127837714/225518552-3223d2b0-eb1f-4c70-9475-3a072642c340.jpg "귀여운 효석이")
+<img src="https://user-images.githubusercontent.com/127837714/225518552-3223d2b0-eb1f-4c70-9475-3a072642c340.jpg" width="30%" height="30%"/>
